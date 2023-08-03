@@ -1,0 +1,16 @@
+{
+  "name": "sgv2jsx-lazy",
+  "version": "1.0.0",
+  "description": "Your Figma Plugin",
+  "main": "code.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "npm run build -- --watch"
+  },
+  "author": "",
+  "license": "",
+  "devDependencies": {
+    "@figma/plugin-typings": "^1.1.0",
+    "typescript": "5.1.6"
+  }
+}

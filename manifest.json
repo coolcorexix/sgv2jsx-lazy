@@ -1,0 +1,16 @@
+{
+  "name": "sgv2jsx-lazy",
+  "id": "1268469828444015065",
+  "api": "1.0.0",
+  "main": "code.js",
+  "capabilities": [],
+  "enableProposedApi": false,
+  "editorType": [
+    "figma"
+  ],
+  "networkAccess": {
+    "allowedDomains": [
+      "none"
+    ]
+  }
+}
